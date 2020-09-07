@@ -9,4 +9,4 @@ Analysis was conducted of 15 different schools composed of charter schools and d
   
 #Note
 
-*Instructions have been included for each segment as a guide to help your thought process as you decide how you would like to get the requested results in analyzing the data provided in the files school data and student data. 
+*Instructions have been included for each segment as a guide to help your thought process as you decide how you would like to get the requested results in analyzing the data provided in the files school data and student data
